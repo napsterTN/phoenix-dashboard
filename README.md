@@ -1,4 +1,4 @@
-## Phoenix, a theme by ThemeWagon team.
+## Phoenix, Reactjs Dashboard by Updev Technologies team.
 
 ---
 
