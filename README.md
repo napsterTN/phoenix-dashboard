@@ -2,5 +2,15 @@
 
 ---
 
-Get the figma design file here:
-[https://www.figma.com/file/qdU3gGtSQkVw8dK2g6Bijn/Phoenix-%F0%9F%A6%85%F0%9F%94%A5-(Distributed)?node-id=1248%3A35561](<https://www.figma.com/file/qdU3gGtSQkVw8dK2g6Bijn/Phoenix-%F0%9F%A6%85%F0%9F%94%A5-(Distributed)?node-id=1248%3A35561>)
+Command
+
+1- npm i
+2- npm start
+
+the app will launch on this url : http://localhost:3000
+
+if you get any problems starting the application try to:
+- update or reinstall webpack package : npm i webpack
+
+To Get the figma design file Please contact us:
+contact@updev-technologies.com.tn
