@@ -2,6 +2,9 @@
 
 ---
 
+PS : this app is a re-creation UI from scratch to existing app by THEMEWAGON
+Original product app link : https://themewagon.com/themes/phoenix-admin-dashboard-webapp-template/
+
 Command
 
 1- npm i
