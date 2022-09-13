@@ -2,12 +2,15 @@
 
 ---
 
+![phoenix](https://user-images.githubusercontent.com/23432200/189842882-e55e6bdf-94bd-4ec9-946b-59c792f460f0.jpg)
+
 PS : this app is a re-creation UI from scratch to existing app by THEMEWAGON
 Original product app link : https://themewagon.com/themes/phoenix-admin-dashboard-webapp-template/
 
 Command
 
 1- npm i
+
 2- npm start
 
 the app will launch on this url : http://localhost:3000
